@@ -1,0 +1,66 @@
+baseURL = 'http://localhost:1313/'
+locale = 'en-us'
+title = 'DESOCIALES'
+theme = "mana"
+
+
+
+[params]
+ description = "Materiales de Geografía e Historia"
+  favicon = "/Img/logo.png"
+  footerText = "Construida con Hugo y el tema Mana. Se utilizan materiales propios, bajo licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional, y materiales publicados por otros compañeros, siempre otorgando atribución en caso de que sea conocida. Si has visto un material incorrectamente atribuido o quieres que sea retirado de la web, escríbeme y ejecutaré la solicitud lo antes posible."  # Optional
+  
+  # Hero section title (optional - defaults to site.Title)
+  heroTitleLine1 = "DESOCIALES.ES"  # First line of hero title
+  heroTitleLine2 = "Materiales de Geografía e Historia"    # Second line of hero title (optional)
+
+[params.infoBanner]
+  enabled = true
+  title = "Acerca de"
+  # Admite formato Markdown: **negrita**, [enlaces](https://...), etc.
+  text = "Blog de clase de la profesora **Elena G. Párraga**, docente de Geografía e Historia en la educación pública andaluza, actualmente impartiendo clase en el IES Al-Fakar de Alfacar (Granada)."
+  image = "/Img/Yo.jpg"
+  imageAlt = "Elena G. Párraga"
+
+
+[params.favicons]
+  ico = "/favicon/favicon.ico"
+  png = "/favicon/favicon.png"
+  png16 = "/favicon/favicon-16x16.png"
+  png32 = "/favicon/favicon-32x32.png"
+  apple180 = "/favicon/apple-touch-icon.png"
+  android192 = "/favicon/android-chrome-192x192.png"
+  android512 = "/favicon/android-chrome-512x512.png"
+  manifest = "/favicon/site.webmanifest"
+
+[params.avatar]
+  [params.avatar.home]
+    url = "/Img/logo.png"
+  [params.avatar.about]
+    url = "/Img/Yo.jpg"
+
+[params.social]
+  instagram = "https://www.instagram.com/elenadesociales"
+  email = "mgonpar942@g.educaand.es"
+
+[[menus.main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 20
+
+[[menus.main]]
+  name = "Tags"
+  pageRef = "/tags"
+  weight = 30
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true

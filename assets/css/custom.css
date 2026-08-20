@@ -1,0 +1,14 @@
+/* Clases de utilidad propias del sitio, disponibles en cualquier página/post */
+
+/* Justificado por defecto para el cuerpo de todas las entradas */
+.post-content-main {
+  text-align: justify;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-center {
+  text-align: center;
+}

@@ -1,0 +1,6 @@
+public/
+resources/
+.hugo_build.lock
+.obsidian/
+.trash/
+themes/hugo-mana-theme-main/

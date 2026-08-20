@@ -1,0 +1,157 @@
+/* Home Page - Sidebar de asignaturas (extensión propia del sitio, no del tema) */
+
+.home-container--with-sidebar {
+  max-width: 1200px;
+}
+
+/* El logo completo es muy vertical (1414x2000): limitamos su altura junto al título */
+.hero-logo {
+  max-height: 500px;
+  width: auto;
+}
+
+@media (max-width: 768px) {
+  .hero-logo {
+    max-height: 240px;
+  }
+}
+
+.home-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-2xl);
+}
+
+.home-layout .posts-section {
+  flex: 1;
+  min-width: 0;
+}
+
+.sidebar-column {
+  flex: 0 0 240px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xl);
+  position: sticky;
+  top: var(--spacing-xl);
+  margin-top: var(--spacing-2xl);
+}
+
+.sidebar {
+  background-color: var(--bg-secondary);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  padding: var(--spacing-lg);
+}
+
+.sidebar-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: var(--spacing-md);
+  color: var(--text-primary);
+}
+
+.sidebar-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-sm) var(--spacing-sm);
+  border-radius: 0.375rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.sidebar-link:hover {
+  background-color: var(--accent-primary-rgba-03);
+  color: var(--text-primary);
+}
+
+.sidebar-link-text {
+  font-size: 0.9rem;
+}
+
+.sidebar-count {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent-primary);
+  background-color: var(--accent-primary-rgba-05);
+  border-radius: 999px;
+  padding: 0.05rem 0.5rem;
+  min-width: 1.5rem;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .home-layout {
+    flex-direction: column;
+  }
+
+  .sidebar-column {
+    flex: 1 1 auto;
+    width: 100%;
+    position: static;
+  }
+}
+
+/* Home Page - Recuadro "Acerca de" */
+
+.info-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: var(--spacing-sm);
+  background-color: var(--bg-secondary);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--accent-primary);
+  border-radius: 0.5rem;
+  padding: var(--spacing-lg);
+}
+
+.info-banner-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.info-banner-text {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  font-size: 0.9rem;
+  text-align: justify;
+}
+
+.info-banner-text p {
+  margin: 0;
+}
+
+.info-banner-text p + p {
+  margin-top: var(--spacing-sm);
+}
+
+.info-banner-text a {
+  color: var(--accent-primary);
+}
+
+.info-banner-image img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
