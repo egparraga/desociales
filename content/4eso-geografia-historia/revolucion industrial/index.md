@@ -4,6 +4,7 @@ date: 2016-11-06T16:09:06+02:00
 draft: false
 categories: ['Ciencias Sociales 4º ESO']
 tags: []
+image: "/Img/4eso/revolucion-industrial.jpg"
 ---
 
 **PRESENTACIÓN**

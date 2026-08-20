@@ -4,6 +4,7 @@ date: 2017-04-22T10:31:35+02:00
 draft: false
 categories: ['Ciencias Sociales 4º ESO']
 tags: ['revolución rusa']
+image: "/Img/4eso/revolucion-rusa.jpg"
 ---
 
 **MATERIAL DE ESTUDIO**

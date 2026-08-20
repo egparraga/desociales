@@ -4,6 +4,7 @@ date: 2017-05-08T17:22:48+02:00
 draft: false
 categories: ['Ciencias Sociales 4º ESO']
 tags: ['entreguerras', 'fascismos', 'nazismo']
+image: "/Img/4eso/totalitarismos.jpg"
 ---
 
 **MATERIAL DE ESTUDIO**

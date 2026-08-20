@@ -4,6 +4,7 @@ date: 2017-05-01T16:00:13+02:00
 draft: false
 categories: ['Ámbito Social ESA', 'Ciencias Sociales 4º ESO']
 tags: []
+image: "/Img/4eso/espana-siglo-xx.jpg"
 ---
 
 **PRESENTACIONES**

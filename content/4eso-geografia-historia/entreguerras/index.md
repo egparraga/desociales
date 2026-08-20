@@ -4,6 +4,7 @@ date: 2019-05-05T10:32:34+02:00
 draft: false
 categories: ['Ciencias Sociales 4º ESO']
 tags: ['crack del 29', 'fascismo']
+image: "/Img/4eso/entreguerras.jpg"
 ---
 
 **PRESENTACIÓN**

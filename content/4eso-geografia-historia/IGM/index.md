@@ -4,6 +4,7 @@ date: 2017-03-18T17:03:49+02:00
 draft: false
 categories: ['Ciencias Sociales 4º ESO']
 tags: ['primera guerra mundial']
+image: "/Img/4eso/igm.jpg"
 ---
 
 **PRESENTACIÓN**

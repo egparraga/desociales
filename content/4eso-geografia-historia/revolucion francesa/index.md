@@ -4,6 +4,7 @@ date: 2016-09-18T10:33:38+02:00
 draft: false
 categories: ['Ciencias Sociales 4º ESO']
 tags: ['antiguo régimen']
+image: "/Img/4eso/revolucion-francesa.png"
 ---
 
 **Presentación de la asignatura**

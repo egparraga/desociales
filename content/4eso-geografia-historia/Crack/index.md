@@ -4,6 +4,7 @@ date: 2017-04-22T10:43:56+02:00
 draft: false
 categories: ['Ciencias Sociales 4º ESO']
 tags: ['felices años 20']
+image: "/Img/4eso/crack.jpg"
 ---
 
 **MATERIAL DE ESTUDIO**

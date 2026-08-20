@@ -4,6 +4,7 @@ date: 2026-05-21T10:12:54+02:00
 draft: false
 categories: ['Ciencias Sociales 4º ESO']
 tags: []
+image: "/Img/4eso/iigm.jpg"
 ---
 
 **FICHA DE TRABAJO**
