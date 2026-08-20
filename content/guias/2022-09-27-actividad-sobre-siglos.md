@@ -7,5 +7,5 @@ tags: []
 ---
 
 
-[Como-se-escriben-los-siglos](https://desociales.es/wp-content/uploads/2022/09/Como-se-escriben-los-siglos.pdf)[Descarga](https://desociales.es/wp-content/uploads/2022/09/Como-se-escriben-los-siglos.pdf)
+{{< embed-pdf src="/PDF/Como-se-escriben-los-siglos.pdf" >}}
 
