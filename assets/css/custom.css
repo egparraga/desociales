@@ -12,3 +12,15 @@
 .text-center {
   text-align: center;
 }
+
+.about-content-full p {
+  text-align: justify;
+  hyphens: auto; /* Esto ayuda a romper palabras largas correctamente al final de línea */
+}
+
+/* Hace que todas las imágenes dentro de los artículos no superen el ancho del texto y tengan bordes redondeados */
+article img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
