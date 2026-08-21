@@ -4,6 +4,7 @@ date: 2020-11-25T11:54:50+02:00
 draft: false
 categories: ['Historia del Mundo Contemporáneo']
 tags: []
+image: "/Img/hmc/movimientos-liberales-nacionales.jpg"
 ---
 
 **VÍDEOS**

@@ -4,6 +4,7 @@ date: 2023-11-06T11:04:42+02:00
 draft: false
 categories: ['Ciencias Sociales 2º ESO']
 tags: []
+image: "/Img/2eso/sda2-eterna-lucha.jpg"
 ---
 
 **PRESENTACIÓN**

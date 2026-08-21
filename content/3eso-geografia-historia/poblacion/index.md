@@ -4,6 +4,7 @@ date: 2025-01-23T12:01:24+02:00
 draft: false
 categories: ['Ciencias Sociales 3º ESO']
 tags: []
+image: "/Img/3eso/poblacion.png"
 ---
 
 **ACTIVIDAD INICIAL: LA ESPAÑA VACIADA**

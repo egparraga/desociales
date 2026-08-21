@@ -4,6 +4,7 @@ date: 2026-05-18T13:17:04+02:00
 draft: false
 categories: ['Ciencias Sociales 3º ESO']
 tags: []
+image: "/Img/3eso/sda-infinito-delicias.jpg"
 ---
 
 [WEB DE INFINITO DELICIAS](https://www.infinitodelicias.com/es)

@@ -4,6 +4,7 @@ date: 2023-09-25T10:54:57+02:00
 draft: false
 categories: ['Ciencias Sociales 2º ESO']
 tags: []
+image: "/Img/2eso/sda1-grand-prix-del-verano.jpg"
 ---
 
 [Presentación SdA 1 - El Grand Prix del Verano](https://view.genial.ly/6509ba5b504ecb0011486941/presentation-sda-1-el-grand-prix-del-verano)

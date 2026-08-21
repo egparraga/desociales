@@ -4,6 +4,7 @@ date: 2026-02-02T11:00:14+02:00
 draft: false
 categories: ['Ciencias Sociales 3º ESO']
 tags: []
+image: "/Img/3eso/sector-primario.jpg"
 ---
 
 **PRESENTACIÓN**

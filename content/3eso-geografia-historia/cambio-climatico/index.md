@@ -4,6 +4,7 @@ date: 2024-06-07T14:05:59+02:00
 draft: false
 categories: ['Ciencias Sociales 3º ESO']
 tags: []
+image: "/Img/3eso/cambio-climatico.jpg"
 ---
 
 **PRESENTACIÓN**

@@ -4,6 +4,7 @@ date: 2024-05-27T18:28:54+02:00
 draft: false
 categories: ['Ciencias Sociales 2º ESO']
 tags: ['feminismo']
+image: "/Img/2eso/la-situacion-de-la-mujer.jpg"
 ---
 
 **PRESENTACIÓN**

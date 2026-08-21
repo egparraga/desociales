@@ -4,6 +4,7 @@ date: 2018-11-07T17:38:39+02:00
 draft: false
 categories: ['Ciencias Sociales 2º ESO']
 tags: ['temas transversales', 'webquest']
+image: "/Img/2eso/webquest-pueblo-gitano.jpg"
 ---
 
 Copia las preguntas que la [Fundación del Secretariado Gitano](https://www.gitanos.org/) planteó en [este hilo de Twitter](https://twitter.com/gitanos_org/status/1056956582175629318) y busca las respuestas antes del 16 de noviembre. Incluye en tu trabajo las direcciones web de las que has sacado las respuestas correctas.

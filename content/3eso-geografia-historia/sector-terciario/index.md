@@ -4,6 +4,7 @@ date: 2025-05-12T10:49:14+02:00
 draft: false
 categories: ['Ciencias Sociales 3º ESO']
 tags: []
+image: "/Img/3eso/sector-terciario.jpg"
 ---
 
 **PRESENTACIÓN**
