@@ -11,6 +11,10 @@ image: "/Img/4eso/revolucion-francesa.png"
 
 {{< embed-pdf src="/PDF/intro-2025.pdf" >}}
 
+**Encuesta inicial de intereses**
+
+[Enlace a la encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdB5XdMGWCkxVhGC7azzuDSBAJgZ7WzW1e-o-UUejaK4v89Vg/viewform?usp=sharing&ouid=107332229936905809504)
+
 **Presentación del tema**
 
 {{< embed-pdf src="/PDF/tema-1-antiguo-regimen.pdf" >}}
