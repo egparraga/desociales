@@ -10,5 +10,11 @@ image: "/Img/filosofia/agua.webp"
 
 {{< embed-pdf src="/PDF/filosofia/UD1.pdf" >}}
 
+**APUNTES DEL TEMA**
+
 {{< embed-pdf src="/PDF/filosofia/Apuntes1.pdf" >}}
+
+**DOSSIER DE ACTIVIDADES**
+
+{{< embed-pdf src="/PDF/filosofia/Dossier1.pdf" >}}
 
