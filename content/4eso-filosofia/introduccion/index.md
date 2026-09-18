@@ -4,7 +4,7 @@ date: 2023-09-12T14:26:16+02:00
 draft: false
 categories: ['Filosofía 4º ESO', 'Impartiendo']
 tags: []
-image: "/Img/filosofia/introduccion.png"
+image: "/Img/filosofia/intro.webp"
 ---
 
 **PRESENTACIÓN**

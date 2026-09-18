@@ -1,5 +1,5 @@
 ---
-title: "4º ESO - ECONOMÍA - ACTIVIDADES INICIALES"
+title: "4º ESO - ECONOMÍA - UD1"
 date: 2026-09-12T14:26:16+02:00
 draft: false
 categories: ['Economía 4º ESO', 'Impartiendo']
