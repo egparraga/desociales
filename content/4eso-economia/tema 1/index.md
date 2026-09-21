@@ -11,3 +11,11 @@ image: "/Img/economia/intro.png"
 
 {{< embed-pdf src="/PDF/economia/1.pdf" >}}
 
+**VÍDEOS**
+
+{{< youtube aIMLDjqFVSQ&t >}}
+
+
+**ACTIVIDADES**
+
+{{< embed-pdf src="/PDF/economia/La camiseta blanca de España.pdf" >}}
