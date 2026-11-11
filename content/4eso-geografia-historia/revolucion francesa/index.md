@@ -2,7 +2,7 @@
 title: "Historia 4º ESO - UD1 - DE SIERVOS A CIUDADANOS"
 date: 2016-09-18T10:33:38+02:00
 draft: false
-categories: ['Ciencias Sociales 4º ESO']
+categories: ['Ciencias Sociales 4º ESO' , 'Impartiendo']
 tags: ['antiguo régimen']
 image: "/Img/4eso/revolucion-francesa.png"
 ---
