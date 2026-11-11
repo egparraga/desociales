@@ -62,3 +62,8 @@ image: "/Img/4eso/revolucion-francesa.png"
 **IMÁGENES**
 
 {{< galeria >}}
+
+
+**SITUACIÓN DE APRENDIZAJE**
+
+{{< embed-pdf src="/PDF/4eso/sda1.pdf" >}}

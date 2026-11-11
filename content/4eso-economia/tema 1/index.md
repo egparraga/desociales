@@ -13,7 +13,7 @@ image: "/Img/economia/intro.png"
 
 **VÍDEOS**
 
-{{< youtube aIMLDjqFVSQ&t >}}
+{{< youtube aIMLDjqFVSQ >}}
 
 
 **ACTIVIDADES**
