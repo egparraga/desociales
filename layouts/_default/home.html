@@ -73,6 +73,23 @@
           </div>
         {{ end }}
 
+        <!-- Sidebar: Temas en curso -->
+        {{ $enCurso := where site.RegularPages "Params.categories" "intersect" (slice "Impartiendo") }}
+        {{ if $enCurso }}
+          <aside class="sidebar">
+            <h2 class="sidebar-title">Temas en curso</h2>
+            <ul class="sidebar-list">
+              {{ range $enCurso.ByTitle }}
+                <li class="sidebar-item">
+                  <a href="{{ .RelPermalink }}" class="sidebar-link">
+                    <span class="sidebar-link-text">{{ .Title }}</span>
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          </aside>
+        {{ end }}
+
         <!-- Sidebar: Asignaturas -->
         <aside class="sidebar">
           <h2 class="sidebar-title">Asignaturas</h2>
