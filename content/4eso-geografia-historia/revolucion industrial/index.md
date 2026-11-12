@@ -2,9 +2,9 @@
 title: "Historia 4º ESO - UD2 - Un mundo conectado"
 date: 2016-11-06T16:09:06+02:00
 draft: false
-categories: ['Ciencias Sociales 4º ESO']
+categories: ['Ciencias Sociales 4º ESO', 'Impartiendo']
 tags: []
-image: "/Img/4eso/revolucion-industrial.jpg"
+image: "/Img/4eso/titanic.jpg"
 ---
 
 **PRESENTACIÓN**
