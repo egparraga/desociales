@@ -1,7 +1,8 @@
 ---
 title: "PREHISTORIA"
 date: 2024-01-01
-tags: ["prehistoria", "eje cronológico"]
+tags: ["prehistoria", eje cronológico"]
+categories: ['1º ESO - Geografía e Historia', 'Impartiendo']
 image: "/Img/prehistoria/evolucion.webp"
 ---
 
@@ -15,13 +16,20 @@ Actividad inicial de diagnóstico-motivación:
 
 {{< embed-pdf src="/PDF/PREHISTORIA.pdf" >}}
 
+
+
 **PRESENTACIÓN DEL TEMA**
 
-{{< embed-pdf src="/PDF/la-prehistoria.pdf" >}}
+{{< embed-pdf src="/PDF/1eso/Prehistoria.pdf" >}}
+
+
+**FICHA DE PERSONAJE PARA GAMIFICACIÓN**
+
+{{< embed-pdf src="/PDF/1eso/Ficha PJ.pdf" >}}
 
 
 
-*Presentación realizada por Daniel Gómez Valle*
+
 
 
 **PROYECTO**
